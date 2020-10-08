@@ -1,4 +1,5 @@
 # 2020 NASA Hackathon
+## Read about the project [here](https://2020.spaceappschallenge.org/challenges/confront/better-together/teams/the-tardigrades/project).
 
 ![Landing Page](https://github.com/mandathompson/2020-NASA-Hackathon/blob/main/Practice_Responding_to_Biased_Comments.png)
 
